@@ -35,8 +35,8 @@ h2, figcaption {
   color: gray;
 }
 
-.centered {
-  display:flex;
+.centered, img {
+  display:block;
   margin:auto;
   max-width: 100%;
   height:auto;
