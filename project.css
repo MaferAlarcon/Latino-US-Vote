@@ -38,4 +38,6 @@ h2, figcaption {
 .centered {
   display:flex;
   margin:auto;
+  max-width: 100%;
+  height:auto;
 }
